@@ -11,3 +11,8 @@ Cambio final para el soft
 Cambio despues del comando reset   soft sin ver el staged
 
 prueba para el reset head
+
+eliminar la linea sin hacer commit
+
+Utilizar el head solo al momento de hacer el Add, despues del commit no funciona
+
