@@ -4,3 +4,9 @@ cambio despues de utilizar reset hard
 
 Cambio despues de uitilizar reset soft
 
+Cambio para volver a utilizar soft
+
+Cambio final para el soft 
+
+Cambio despues del comando reset   soft sin ver el staged
+
