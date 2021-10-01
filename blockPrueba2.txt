@@ -2,3 +2,5 @@ Este es el segundo block despues de usar rm --force
 
 cambio despues de utilizar reset hard
 
+Cambio despues de uitilizar reset soft
+
